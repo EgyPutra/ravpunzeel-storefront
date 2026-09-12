@@ -5,7 +5,6 @@ import {
   ChevronDown,
   ExternalLink,
   Heart,
-  Camera,
   Menu,
   Search,
   Send,
@@ -136,7 +135,6 @@ function App() {
             <blockquote>“Pilih, edit, dan ceritakan kisahmu.” 💕</blockquote>
           </div>
           <div className="socials">
-            <a href="https://www.instagram.com/ravinaswt/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noreferrer"><Camera size={17} /> Instagram</a>
             <a href="https://t.me/seulgiestwins" target="_blank" rel="noreferrer"><Send size={17} /> Telegram</a>
           </div>
         </section>
